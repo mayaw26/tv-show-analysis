@@ -1,5 +1,6 @@
 # Data files — keep datasets off GitHub
 Data/
+SQL/*.db
 
 # Python
 __pycache__/
