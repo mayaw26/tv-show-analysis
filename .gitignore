@@ -1,5 +1,5 @@
 # Data files — keep datasets off GitHub
-data/
+Data/
 
 # Python
 __pycache__/
