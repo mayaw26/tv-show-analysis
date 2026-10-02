@@ -1,0 +1,21 @@
+# Data files — keep datasets off GitHub
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables / secrets
+.env
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
